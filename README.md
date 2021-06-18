@@ -13,5 +13,5 @@ Or click on the SQL file and Github will open it for you.
 3. Right click the file and select the 'Open With' option
 4. Select 'Notepad' or any program that can open the SQL file
 5. The file will open in a new program
-OR
-Click on the SQL file and Github will open it for you.
+
+- Another Option Would Be : Click on the SQL file and Github will open it for you.
